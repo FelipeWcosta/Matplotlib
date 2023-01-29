@@ -49,6 +49,7 @@ Para installar a biblioteca `matplotlib` basta utilizar o comando:
 
  [def2]: https://github.com/FelipeWcosta/Matplotlib/blob/main/Figs/barcomp.png
 
+# Criandos gráficos *scatter*
 * Criando um  gráfico *scatter*:
 ```
     import matplotlib.pyplot as plt
