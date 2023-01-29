@@ -116,3 +116,9 @@ Para installar a biblioteca `matplotlib` basta utilizar o comando:
     plt.legend()
     plt.savefig("My_plot.png", dpi = 1200)
 ```
+
+* *Output*:
+
+![save][def5]
+
+[def5]: https://github.com/FelipeWcosta/Matplotlib/blob/main/Figs/My_plot.png
