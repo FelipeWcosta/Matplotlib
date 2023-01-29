@@ -122,3 +122,16 @@ Para installar a biblioteca `matplotlib` basta utilizar o comando:
 ![save][def5]
 
 [def5]: https://github.com/FelipeWcosta/Matplotlib/blob/main/Figs/My_plot.png
+
+# Boxplot
+* *Boxplot* para análise estátistica de dados:
+```
+    import matplotlib.pyplot as plt
+    import random
+    array = []
+    for i in range(10000):
+        num_ran = random.randint(0, 1000000)
+        array.append(num_ran)
+    plt.boxplot(array)
+    plt.show()
+```
