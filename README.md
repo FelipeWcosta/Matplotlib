@@ -43,7 +43,7 @@ Para installar a biblioteca `matplotlib` basta utilizar o comando:
     plt.legend()
     plt.show()
  ```
-* *Output*
+* *Output*:
 
  ![barcom][def2]
 
@@ -66,7 +66,7 @@ Para installar a biblioteca `matplotlib` basta utilizar o comando:
     plt.show()
 ```
 
-* *Output*
+* *Output*:
 
 ![scatter][def3]
 
@@ -90,3 +90,9 @@ Para installar a biblioteca `matplotlib` basta utilizar o comando:
     plt.legend()
     plt.show()
 ```
+
+* *Output*:
+
+![scatterii][def4]
+
+[def4]: https://github.com/FelipeWcosta/Matplotlib/blob/main/Figs/scatterplot2.png
