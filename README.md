@@ -1,4 +1,9 @@
 # Repositório de Estudo: Matplotlib
+## Resolvendo dependências
+Para installar a biblioteca `matplotlib` basta utilizar o comando:
+```
+    py -m pip install matplotlib
+```
 ## Criando gráficos de barras
 * Criando um gráfico de barras simples:
 
