@@ -44,6 +44,7 @@ Para installar a biblioteca `matplotlib` basta utilizar o comando:
     plt.show()
  ```
 * *Output*
+
  ![barcom][def2]
 
  [def2]: https://github.com/FelipeWcosta/Matplotlib/blob/main/Figs/barcomp.png
