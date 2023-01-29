@@ -137,6 +137,7 @@ Para installar a biblioteca `matplotlib` basta utilizar o comando:
 ```
 
 * *Output*:
+
 ![boxplot][def6]
 
 [def6]: https://github.com/FelipeWcosta/Matplotlib/blob/main/Figs/boxplot.png
