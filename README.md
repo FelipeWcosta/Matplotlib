@@ -20,3 +20,7 @@ Para installar a biblioteca `matplotlib` basta utilizar o comando:
     plt.bar(x, y)
     plt.show()
  ```
+ * *Output*
+ ![bar][def]
+
+ [def]: https://github.com/FelipeWcosta/Matplotlib/blob/main/Figs/bar.png
