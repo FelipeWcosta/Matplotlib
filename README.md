@@ -25,7 +25,7 @@ Para installar a biblioteca `matplotlib` basta utilizar o comando:
 
  [def]: https://github.com/FelipeWcosta/Matplotlib/blob/main/Figs/bar.png
 
- * Criando um gráfico de barras com legenda:
+ * Criando um gráfico de barras para comparação com legenda:
  ```
     import matplotlib.pyplot as plt
     x1 = [1, 3, 5, 7, 9]
@@ -43,3 +43,7 @@ Para installar a biblioteca `matplotlib` basta utilizar o comando:
     plt.legend()
     plt.show()
  ```
+
+ ![barcom][def2]
+
+ [def2]: https://github.com/FelipeWcosta/Matplotlib/blob/main/Figs/barcomp.png
