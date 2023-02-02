@@ -2,6 +2,9 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 
+#Resize your graph
+plt.figure(figsize = (7, 4), dpi = 300)
+
 x = [0, 1, 2, 3, 4, 5]
 y = [0, 2, 4, 6, 8, 10]
 
